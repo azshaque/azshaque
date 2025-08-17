@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I’m Azshaque Rizvi
 
-<!--
-**azshaque/azshaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **ECE student & aspiring developer** passionate about **programming, algorithms, gaming, and Web3 technologies**.  
+I build projects in **C, C++, Python, and Solidity**, and I love exploring innovative ideas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+
+**Languages I know:**  
+- C  
+- C++  
+- Python  
+
+**Currently Learning:**  
+- JavaScript  
+- Solidity  
+
+**Tools & Platforms:**  
+- Git  
+- VS Code  
+
+---
+
+## 💻 Projects
+
+**Completed:**  
+- **Snake Game (C)** – A classic console-based Snake game. [Repository link](https://github.com/azshaque/C-snake-game)  
+
+**Working on:**  
+- **MELOD.i** – An AI karaoke coach.  
+
+---
+
+## 📫 Contact Me
+
+- **Email:** azshaque@gmail.com 
+
+---
+
+## ⚡ Fun Facts / Hobbies
+
+- I love **gaming, traveling, and coding challenges**.  
+- Exploring **Web3 projects and AI-based applications**.  
+- Interested in **creative tech projects and innovative ideas**.
+
+
+
+  
+
