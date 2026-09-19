@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hi, I'm Azshaque Rizvi
 
 ### 🚀 ECE Student | AI & Computer Vision Enthusiast | Developer
@@ -115,7 +115,6 @@ I believe the best way to learn is to **build, experiment, fail, understand why 
 <p align="center">
   <b>🚀 Building today. Learning every day. Improving continuously.</b>
 </p>
-```
 
 
 
